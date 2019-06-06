@@ -12,3 +12,10 @@
 
 - npm i -D semantic-release
 - Add script: "semantic-release": "semantic-release"
+- Add CI config containing "run: npm run semantic-release"
+- Build should pass
+
+## Tracking Change
+
+- npm i -D @semantic-release/changelog @semantic-release/git
+- Add "prepare" section in package.json
