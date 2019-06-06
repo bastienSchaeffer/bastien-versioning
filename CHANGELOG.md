@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/bastienSchaeffer/bastien-versioning/compare/v1.0.0...v2.0.0) (2019-06-06)
+
+
+### Features
+
+* add new feature ([ac6dae8](https://github.com/bastienSchaeffer/bastien-versioning/commit/ac6dae8)), closes [fix#1](https://github.com/fix/issues/1)
+
+
+### BREAKING CHANGES
+
+* change the entire log
+
 # 1.0.0 (2019-06-06)
 
 
