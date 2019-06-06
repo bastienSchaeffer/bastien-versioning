@@ -1,1 +1,1 @@
-console.log('bastien-versioning');
+console.log('bastien-versioning with updated version');
