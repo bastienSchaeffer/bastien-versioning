@@ -1,6 +1,6 @@
 {
   "name": "bastien-versioning",
-  "version": "1.0.0-dev",
+  "version": "1.0.0",
   "description": "Package versioning",
   "main": "index.js",
   "scripts": {
