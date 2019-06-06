@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/bastienSchaeffer/bastien-versioning/compare/v2.0.0...v2.1.0) (2019-06-06)
+
+
+### Features
+
+* enable publication ([767ddad](https://github.com/bastienSchaeffer/bastien-versioning/commit/767ddad)), closes [ref#2](https://github.com/ref/issues/2)
+
 # [2.0.0](https://github.com/bastienSchaeffer/bastien-versioning/compare/v1.0.0...v2.0.0) (2019-06-06)
 
 
