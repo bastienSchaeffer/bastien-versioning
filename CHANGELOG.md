@@ -1,3 +1,10 @@
+## [2.2.1](https://github.com/bastienSchaeffer/bastien-versioning/compare/v2.2.0...v2.2.1) (2019-06-07)
+
+
+### Bug Fixes
+
+* add configuration in its own file ([67e037b](https://github.com/bastienSchaeffer/bastien-versioning/commit/67e037b))
+
 # [2.1.0](https://github.com/bastienSchaeffer/bastien-versioning/compare/v2.0.0...v2.1.0) (2019-06-06)
 
 
