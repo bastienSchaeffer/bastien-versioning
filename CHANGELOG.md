@@ -1,3 +1,11 @@
+## [2.2.2](https://github.com/bastienSchaeffer/bastien-versioning/compare/v2.2.1...v2.2.2) (2019-06-07)
+
+
+### Bug Fixes
+
+* add branches in configuration ([508ac1b](https://github.com/bastienSchaeffer/bastien-versioning/commit/508ac1b))
+* yaml circleCi configuration correctly formed ([5a4894e](https://github.com/bastienSchaeffer/bastien-versioning/commit/5a4894e))
+
 ## [2.2.1](https://github.com/bastienSchaeffer/bastien-versioning/compare/v2.2.0...v2.2.1) (2019-06-07)
 
 
