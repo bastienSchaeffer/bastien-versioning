@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/bastienSchaeffer/bastien-versioning/compare/v2.2.2...v3.0.0) (2019-06-10)
+
+
+### Features
+
+* add beta branch support ([21ee271](https://github.com/bastienSchaeffer/bastien-versioning/commit/21ee271))
+
+
+### BREAKING CHANGES
+
+* allow beta release
+
 ## [2.2.2](https://github.com/bastienSchaeffer/bastien-versioning/compare/v2.2.1...v2.2.2) (2019-06-07)
 
 
